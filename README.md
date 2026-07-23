@@ -65,9 +65,9 @@ Performed data preprocessing, handled missing values, and prepared data for anal
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=drdopamine-alt&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muskan-researcher&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drdopamine-alt&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-researcher&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -76,7 +76,7 @@ Performed data preprocessing, handled missing values, and prepared data for anal
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=drdopamine-alt&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Muskan-researcher&theme=tokyonight"/>
 </p>
 
 ---
@@ -101,7 +101,7 @@ Performed data preprocessing, handled missing values, and prepared data for anal
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto: 25f3005294@ds.study.iitm.ac.in">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
