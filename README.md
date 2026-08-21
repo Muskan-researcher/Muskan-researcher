@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">📊 Aspiring Data Analyst | Turning Data into Insights</h3>
+<h3 align="center">📊Data Analyst Aspirant | Turning Data into Insights</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analysis+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Learning+Something+New+Every+Day;Building+Projects+One+Dataset+at+a+Time" />
@@ -10,19 +10,15 @@
 
 ## 🌸 About Me
 
-🔹 Aspiring Data Analyst passionate about uncovering insights from data
+🔹 I am a Data Analyst Aspirant passionate about uncovering insights from data
 
 🔹 Skilled in Python, SQL, Excel, and Power BI
 
-🔹 Currently building projects in:
-- Exploratory Data Analysis (EDA)
-- Data Cleaning
-- Business Insights
-- Dashboard Development
+🔹 I can spend hours cleaning messy datasets and actually enjoy it.
 
 🔹 Goal: Transform raw data into meaningful business decisions
 
-🔹 Fun Fact: I can spend hours cleaning messy datasets and actually enjoy it 😆
+
 
 ---
 
@@ -49,15 +45,6 @@
 
 ### 🛒 Retail Sales EDA
 Analyzed retail sales data to identify trends, customer behavior, and revenue patterns.
-
-### 🏠 Airbnb Data Cleaning
-Performed data preprocessing, handled missing values, and prepared data for analysis.
-
-### 📈 Upcoming Projects
-- Customer Churn Analysis
-- HR Analytics Dashboard
-- Sales Forecasting
-- SQL Business Case Studies
 
 ---
 
@@ -97,7 +84,7 @@ Performed data preprocessing, handled missing values, and prepared data for anal
 
 <p align="center">
 
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/muskan-yadav-data-analytics/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -109,13 +96,7 @@ Performed data preprocessing, handled missing values, and prepared data for anal
 
 ---
 
-<p align="center">
-✨ "Without data, you're just another person with an opinion." ✨
-</p>
-<!--
-**Muskan-researcher/Muskan-researcher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
