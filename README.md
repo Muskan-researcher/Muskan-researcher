@@ -1,97 +1,75 @@
+# Hi, I'm Muskan
 
-<h1 align="center">Hi 👋, I'm Muskan</h1>
-<h3 align="center">📊Data Analyst Aspirant | Turning Data into Insights</h3>
+**Data Analyst Aspirant | Data Science Student**
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Analysis+Enthusiast;Python+%7C+SQL+%7C+Power+BI;Learning+Something+New+Every+Day;Building+Projects+One+Dataset+at+a+Time" />
-</p>
+I am building practical skills in data analysis by working with datasets, cleaning and transforming data, exploring patterns, creating dashboards, and communicating insights clearly.
 
----
+## About Me
 
-## 🌸 About Me
+- Pursuing a **BS in Data Science and Applications from IIT Madras**
+- Interested in **Data Analytics and Business Analytics**
+- Enjoy working with messy datasets and turning them into structured, useful information
+- Currently focused on strengthening SQL, Python, Excel, Power BI, statistics, and analytical problem-solving
 
-🔹 I am a Data Analyst Aspirant passionate about uncovering insights from data
+## Skills
 
-🔹 Skilled in Python, SQL, Excel, and Power BI
+**Programming & Analysis**
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
 
-🔹 I can spend hours cleaning messy datasets and actually enjoy it.
+**Databases**
+- SQL
+- MySQL
 
-🔹 Goal: Transform raw data into meaningful business decisions
+**Business Intelligence & Spreadsheets**
+- Microsoft Excel
+- Power Query
+- Power BI
 
+**Tools**
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+- Streamlit
 
+## Featured Projects
 
----
+### Defence Procurement Analytics
+An analytics project focused on procurement transaction data, including data preparation and expenditure analysis using Excel.
 
-## 🚀 Tech Stack
+[View Repository](https://github.com/Muskan-researcher/ArmyAnalyticsPortfolio)
 
-<p align="center">
+### Smart Campus Sustainability Dashboard
+A Streamlit dashboard for monitoring campus water and energy usage, with building comparisons, consumption analysis, sustainability indicators, and water leak-risk analysis.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+[View Repository](https://github.com/Muskan-researcher/Smart-Campus-Sustainability-Dashboard)
 
-</p>
+### Retail Sales Exploratory Data Analysis
+An exploratory analysis project focused on understanding retail sales patterns and extracting insights from transactional data.
 
-### 📊 Data Analytics Tools
+[View Repository](https://github.com/Muskan-researcher/DataAnalysisProjects)
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
-![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
+### OIBSIP Data Analyst Projects
+A collection of practical data analysis work completed as part of an internship, covering tasks such as data cleaning, exploratory analysis, and customer segmentation.
 
----
+[View Repository](https://github.com/Muskan-researcher/OIBSIP_DataAnalyst)
 
-## 📂 Featured Projects
+## Currently Learning
 
-### 🛒 Retail Sales EDA
-Analyzed retail sales data to identify trends, customer behavior, and revenue patterns.
+- Advanced SQL
+- Statistics for Data Science
+- Power BI dashboard design
+- Machine Learning fundamentals
 
----
+## Education
 
-## 📊 GitHub Analytics
+**BS in Data Science and Applications — IIT Madras**
 
-<p align="center">
+## Connect
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muskan-researcher&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muskan-researcher&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Muskan-researcher&theme=tokyonight"/>
-</p>
-
----
-
-## 🌱 Currently Learning
-
-✔ Advanced SQL
-
-✔ Statistics for Data Science
-
-✔ Power BI Dashboard Design
-
-✔ Machine Learning Fundamentals
-
----
-
-## 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/muskan-yadav-data-analytics/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto: 25f3005294@ds.study.iitm.ac.in">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
-
----
+- [LinkedIn](https://www.linkedin.com/in/muskan-yadav-data-analytics/)
+- Email: 25f3005294@ds.study.iitm.ac.in
