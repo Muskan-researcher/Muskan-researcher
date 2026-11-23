@@ -6,8 +6,8 @@ I am building practical skills in data analysis by working with datasets, cleani
 
 ## About Me
 
-- Pursuing a **BS in Data Science and Applications from IIT Madras**
-- Interested in **Data Analytics and Business Analytics**
+- Pursuing a **BS in Data Science and Applications from IIT Madras.**
+- Interested in **Data Analytics,Business Analytics, & AI\ML research.**
 - Enjoy working with messy datasets and turning them into structured, useful information
 - Currently focused on strengthening SQL, Python, Excel, Power BI, statistics, and analytical problem-solving
 
@@ -19,9 +19,10 @@ I am building practical skills in data analysis by working with datasets, cleani
 - NumPy
 - Matplotlib
 - Seaborn
+- HTML
+- CSS
 
 **Databases**
-- SQL
 - MySQL
 
 **Business Intelligence & Spreadsheets**
@@ -37,11 +38,6 @@ I am building practical skills in data analysis by working with datasets, cleani
 - Streamlit
 
 ## Featured Projects
-
-### Defence Procurement Analytics
-An analytics project focused on procurement transaction data, including data preparation and expenditure analysis using Excel.
-
-[View Repository](https://github.com/Muskan-researcher/ArmyAnalyticsPortfolio)
 
 ### Smart Campus Sustainability Dashboard
 A Streamlit dashboard for monitoring campus water and energy usage, with building comparisons, consumption analysis, sustainability indicators, and water leak-risk analysis.
@@ -61,9 +57,10 @@ A collection of practical data analysis work completed as part of an internship,
 ## Currently Learning
 
 - Advanced SQL
-- Statistics for Data Science
-- Power BI dashboard design
 - Machine Learning fundamentals
+- Power BI dashboard design
+- Modern Application Development
+- DSA in Python
 
 ## Education
 
